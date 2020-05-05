@@ -6,7 +6,7 @@ Technology Transformation Services<br>
 
 Assisted Acquisition on Behalf of the Office of Head Start (OHS), within the Administration for Children and Families, U.S. Department of Health and Human Services.
 
-Office of Head Start Training and Teachnical Assistance Data Platform
+Office of Head Start Training and Technical Assistance Data Platform
 
 # Request for Quote
 
